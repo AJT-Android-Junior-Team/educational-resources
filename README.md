@@ -1,2 +1,5 @@
 # educational-resources
-A bunch of .md files about architecture, organization of code, examples and best practices
+Куча .md файлов об архитектуре, организации кода, примерах и лучших практиках
+
+### Оглавление:
+* [Архетиктура проекта](android_architecture_layers.md)
